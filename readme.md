@@ -2,3 +2,4 @@
 ## dự án website hướng dẫn nấu ăn
 ## danh sách nhóm
 + Võ Thị Tố Như
++ Dương Thị Bích Thu
